@@ -37,3 +37,23 @@ Later, if you get an error "To run this application, you first must install one 
 - Open the control panel, first uninstall “Microsoft .Net Framework 4 Extended”, then uninstall “Microsoft .Net Framework 4 Client Profile”.
 - Restart the PC
 - Launch this setup again.
+
+---
+
+## ScreenShot
+
+![image](https://github.com/user-attachments/assets/58aaee03-3637-4a6a-a1e4-46e54e4e8ed5)
+
+---
+
+## Can be detected as a virus because it's an auto-extractible SFX
+
+### [VirusTotal scan link](https://www.virustotal.com/gui/file-analysis/OGFjMmNlMDhkNzFiMjBhNWU2N2Q5NzBlZjNhOTBlZTI6MTc1MTI0MDYxNg==)
+
+![image](https://github.com/user-attachments/assets/2a9e1029-1001-498d-a22b-e0f958721a51)
+
+---
+
+# Install
+
+### Download and open: [Latest release](https://github.com/Freenitial/PowerShell-2.0_.NET-4_for_Windows_XP-2003-Vista-2008/releases/latest/download/Ensure_PowerShell2+.Net4.exe)
