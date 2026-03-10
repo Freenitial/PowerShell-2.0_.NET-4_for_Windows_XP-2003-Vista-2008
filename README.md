@@ -4,6 +4,10 @@ Already included in Windows 7 / Server 2008 R2 and higher --> not necessary
 
 ---
 
+## IF YOU ARE LOOKING TO RESTORE POWERSHELL 2.0 on RECENT WINDOWS 11 : https://github.com/Freenitial/PowerShell-2.0_.NET-4_for_Windows_XP-2003-Vista-2008
+
+---
+
 Not compatible with :
 - Windows XP RTM
 - Windows XP SP1 x32
