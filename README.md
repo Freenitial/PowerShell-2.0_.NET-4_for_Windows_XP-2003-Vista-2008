@@ -4,7 +4,7 @@ Already included in Windows 7 / Server 2008 R2 and higher --> not necessary
 
 ---
 
-## IF YOU ARE LOOKING TO RESTORE POWERSHELL 2.0 on RECENT WINDOWS 11 : https://github.com/Freenitial/PowerShell_2.0_Patcher
+## IF YOU ARE LOOKING TO RESTORE POWERSHELL 2.0 on WINDOWS 11 : https://github.com/Freenitial/PowerShell_2.0_Patcher
 
 ---
 
